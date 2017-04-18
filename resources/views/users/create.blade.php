@@ -1,6 +1,6 @@
 @extends('layouts.default')
-@section('title', 'About')
+@section('title', 'Signup')
 
 @section('content')
-  <h1>About</h1>
+  <h1>Signup</h1>
 @stop
